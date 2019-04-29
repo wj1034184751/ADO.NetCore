@@ -1,6 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
+using System.Reflection;
 using System.Text;
 
 namespace Model
@@ -12,12 +13,11 @@ namespace Model
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //注入Sql链接字符串
-            optionsBuilder.UseSqlServer(@"Server=.;Database=MyTest1;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer(@"Server=.;Database=MyTest1;Trusted_Connection=True;Uid=sa;Pwd=1034184751");
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            base.OnModelCreating(modelBuilder);
         }
     }
 }

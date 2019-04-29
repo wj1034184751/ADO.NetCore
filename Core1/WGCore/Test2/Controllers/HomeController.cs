@@ -13,11 +13,18 @@ namespace Test2.Controllers
 {
     public class HomeController : Controller
     {
+        private readonly TestService _testService;
+        public HomeController(TestService testService)
+        {
+            this._testService = testService;
+        }
         public IActionResult Index()
         {
-            MyDbContext _context = new MyDbContext();
-            int count = _context.JD_Commodity_001.Count();
-            return View();
+            //MyDbContext _context = new MyDbContext();
+            //int count = _context.JD_Commodity_001.Count();
+            //var model = _context.JD_Commodity_001.Where(d => d.Id == 2).FirstOrDefault();
+            //return View();
+            return Content(_testService.Print());
         }
 
         public IActionResult About()
