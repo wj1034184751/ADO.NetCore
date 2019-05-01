@@ -24,6 +24,16 @@ namespace Test2.Controllers
             //int count = _context.JD_Commodity_001.Count();
             //var model = _context.JD_Commodity_001.Where(d => d.Id == 2).FirstOrDefault();
             //return View();
+
+            using (EFMYSQL.MyDbContext _context = new EFMYSQL.MyDbContext())
+            {
+                EFMYSQL.UserInfo model = new EFMYSQL.UserInfo();
+                model.Age = 5;
+                model.Name = "wj";
+                model.Gender = true;
+                _context.UserInfo.Add(model);
+                _context.SaveChanges();
+            }
             return Content(_testService.Print());
         }
 

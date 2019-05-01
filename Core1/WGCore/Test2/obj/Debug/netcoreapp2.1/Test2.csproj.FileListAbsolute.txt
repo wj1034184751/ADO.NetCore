@@ -5,6 +5,10 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Test2.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Test2.pdb
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Test2.Views.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Test2.Views.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\EFMYSQL.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Model.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\EFMYSQL.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Model.pdb
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.csprojAssemblyReference.cache
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CoreCompileInputs.cache
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.RazorAssemblyInfo.cache
@@ -27,8 +31,6 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Razor\Vie
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.RazorTargetAssemblyInfo.cache
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.RazorTargetAssemblyInfo.cs
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.Views.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CopyComplete
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.pdb
-D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\obj\Debug\netcoreapp2.1\Test2.csproj.CopyComplete
-D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Model.dll
-D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test2\bin\Debug\netcoreapp2.1\Model.pdb
