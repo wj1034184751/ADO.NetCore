@@ -12,3 +12,5 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EFMYSQL.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EFMYSQL.pdb
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EntityExtensions.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EntityExtensions.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml

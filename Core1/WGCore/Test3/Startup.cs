@@ -35,8 +35,14 @@ namespace Test3
 
 
             //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-
-            services.AddMvc();
+            services.AddSingleton(typeof(MyExceptionFilter));
+            services.AddMvc(options =>
+            {
+                var serviceProvider = services.BuildServiceProvider();
+                var filter=serviceProvider.GetService<MyExceptionFilter>();
+                options.Filters.Add(filter);
+            });
+            services.AddMemoryCache();
 
             #region 第一种注入
             Assembly asmBLL = Assembly.Load(new AssemblyName("BLL"));
