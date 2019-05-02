@@ -32,3 +32,9 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\obj\Debug\netcoreapp2.1\Test3.Vie
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\obj\Debug\netcoreapp2.1\Test3.csproj.CopyComplete
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\obj\Debug\netcoreapp2.1\Test3.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\obj\Debug\netcoreapp2.1\Test3.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\BLL.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\DAL.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\BLL.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\DAL.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\Test3\bin\Debug\netcoreapp2.1\EntityExtensions.pdb

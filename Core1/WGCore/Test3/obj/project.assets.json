@@ -4372,6 +4372,35 @@
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
       },
+      "BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "DAL": "1.0.0",
+          "EFMYSQL": "1.0.0",
+          "EntityExtensions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "dependencies": {
+          "EFMYSQL": "1.0.0",
+          "EntityExtensions": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DAL.dll": {}
+        }
+      },
       "EFMYSQL/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.1",
@@ -4383,6 +4412,16 @@
         },
         "runtime": {
           "bin/placeholder/EFMYSQL.dll": {}
+        }
+      },
+      "EntityExtensions/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.1",
+        "compile": {
+          "bin/placeholder/EntityExtensions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntityExtensions.dll": {}
         }
       }
     }
@@ -11878,15 +11917,31 @@
         "system.xml.xpath.xdocument.nuspec"
       ]
     },
+    "BLL/1.0.0": {
+      "type": "project",
+      "path": "../BLL/BLL.csproj",
+      "msbuildProject": "../BLL/BLL.csproj"
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "path": "../DAL/DAL.csproj",
+      "msbuildProject": "../DAL/DAL.csproj"
+    },
     "EFMYSQL/1.0.0": {
       "type": "project",
       "path": "../EFMYSQL/EFMYSQL.csproj",
       "msbuildProject": "../EFMYSQL/EFMYSQL.csproj"
+    },
+    "EntityExtensions/1.0.0": {
+      "type": "project",
+      "path": "../EntityExtensions/EntityExtensions.csproj",
+      "msbuildProject": "../EntityExtensions/EntityExtensions.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
-      "EFMYSQL >= 1.0.0",
+      "BLL >= 1.0.0",
+      "EntityExtensions >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.AspNetCore.Razor.Design >= 2.1.2",
       "Microsoft.NETCore.App >= 2.1.0"
@@ -11922,8 +11977,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EFMYSQL\\EFMYSQL.csproj": {
-              "projectPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EFMYSQL\\EFMYSQL.csproj"
+            "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\BLL\\BLL.csproj": {
+              "projectPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\BLL\\BLL.csproj"
+            },
+            "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj": {
+              "projectPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj"
             }
           }
         }

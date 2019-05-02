@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Threading.Tasks;
+using EntityExtensions;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -24,15 +26,44 @@ namespace Test3
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<CookiePolicyOptions>(options =>
+            //services.Configure<CookiePolicyOptions>(options =>
+            //{
+            //    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+            //    options.CheckConsentNeeded = context => true;
+            //    options.MinimumSameSitePolicy = SameSiteMode.None;
+            //});
+
+
+            //services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddMvc();
+
+            #region 第一种注入
+            Assembly asmBLL = Assembly.Load(new AssemblyName("BLL"));
+            var serviceBLLTypes = asmBLL.GetTypes().Where(t => typeof(IServiceSupportExten).IsAssignableFrom(t) && !t.GetTypeInfo().IsAbstract);
+            foreach (var serviceType in serviceBLLTypes)
             {
-                // This lambda determines whether user consent for non-essential cookies is needed for a given request.
-                options.CheckConsentNeeded = context => true;
-                options.MinimumSameSitePolicy = SameSiteMode.None;
-            });
+                foreach (var interType in serviceType.GetInterfaces())
+                {
+                    services.AddSingleton(interType, serviceType);
+                }
+            }
 
+            Assembly asmDAL = Assembly.Load(new AssemblyName("DAL"));
+            var serviceDALTypes = asmDAL.GetTypes().Where(t => typeof(IServiceSupportExten).IsAssignableFrom(t) && !t.GetTypeInfo().IsAbstract);
+            foreach (var serviceType in serviceDALTypes)
+            {
+                foreach (var interType in serviceType.GetInterfaces())
+                {
+                    services.AddSingleton(interType, serviceType);
+                }
+            }
+            #endregion
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            #region 第二种注入
+            //services.AddSingleton(typeof(IUserInfoService), typeof(UserInfoService));
+            //services.AddSingleton(typeof(IUserInfoBLL), typeof(UserInfoBLL));
+            #endregion
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

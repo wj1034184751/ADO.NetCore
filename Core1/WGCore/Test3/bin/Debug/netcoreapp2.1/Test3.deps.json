@@ -24,7 +24,8 @@
     ".NETCoreApp,Version=v2.1": {
       "Test3/1.0.0": {
         "dependencies": {
-          "EFMYSQL": "1.0.0",
+          "BLL": "1.0.0",
+          "EntityExtensions": "1.0.0",
           "Microsoft.AspNetCore.App": "2.1.1",
           "Microsoft.AspNetCore.Razor.Design": "2.1.2",
           "Microsoft.NETCore.App": "2.1.0"
@@ -252,6 +253,31 @@
           "lib/netstandard1.3/Pomelo.JsonObject.dll": {}
         }
       },
+      "BLL/1.0.0": {
+        "dependencies": {
+          "DAL": "1.0.0",
+          "EFMYSQL": "1.0.0",
+          "EntityExtensions": "1.0.0"
+        },
+        "runtime": {
+          "BLL.dll": {}
+        },
+        "compile": {
+          "BLL.dll": {}
+        }
+      },
+      "DAL/1.0.0": {
+        "dependencies": {
+          "EFMYSQL": "1.0.0",
+          "EntityExtensions": "1.0.0"
+        },
+        "runtime": {
+          "DAL.dll": {}
+        },
+        "compile": {
+          "DAL.dll": {}
+        }
+      },
       "EFMYSQL/1.0.0": {
         "dependencies": {
           "Pomelo.EntityFrameworkCore.MySql": "2.1.0"
@@ -261,6 +287,14 @@
         },
         "compile": {
           "EFMYSQL.dll": {}
+        }
+      },
+      "EntityExtensions/1.0.0": {
+        "runtime": {
+          "EntityExtensions.dll": {}
+        },
+        "compile": {
+          "EntityExtensions.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3288,7 +3322,22 @@
       "path": "pomelo.jsonobject/1.1.1",
       "hashPath": "pomelo.jsonobject.1.1.1.nupkg.sha512"
     },
+    "BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "EFMYSQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntityExtensions/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1,8 +1,6 @@
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\DAL.deps.json
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\DAL.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\DAL.pdb
-D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\Model.dll
-D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\Model.pdb
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.csprojAssemblyReference.cache
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CoreCompileInputs.cache
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.AssemblyInfoInputs.cache
@@ -10,3 +8,7 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.Assembl
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.csproj.CopyComplete
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\obj\Debug\netcoreapp2.1\DAL.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EFMYSQL.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EFMYSQL.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\DAL\bin\Debug\netcoreapp2.1\EntityExtensions.pdb

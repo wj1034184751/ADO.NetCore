@@ -11,7 +11,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\EFMYSQL\EFMYSQL.csproj" />
+    <ProjectReference Include="..\BLL\BLL.csproj" />
+    <ProjectReference Include="..\EntityExtensions\EntityExtensions.csproj" />
   </ItemGroup>
 
 </Project>

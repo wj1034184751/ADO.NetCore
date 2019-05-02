@@ -6,7 +6,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\DAL\DAL.csproj" />
-    <ProjectReference Include="..\Model\Model.csproj" />
+    <ProjectReference Include="..\EFMYSQL\EFMYSQL.csproj" />
+    <ProjectReference Include="..\EntityExtensions\EntityExtensions.csproj" />
   </ItemGroup>
 
 </Project>

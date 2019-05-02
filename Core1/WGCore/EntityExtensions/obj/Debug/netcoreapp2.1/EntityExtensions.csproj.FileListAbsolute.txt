@@ -1,0 +1,9 @@
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.deps.json
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.pdb
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csprojAssemblyReference.cache
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csproj.CoreCompileInputs.cache
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.AssemblyInfoInputs.cache
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.AssemblyInfo.cs
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.pdb
