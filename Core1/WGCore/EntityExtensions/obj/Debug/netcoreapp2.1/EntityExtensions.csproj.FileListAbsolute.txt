@@ -10,3 +10,15 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csproj.CopyComplete
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.deps.json
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\EntityExtensions.pdb
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csprojAssemblyReference.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csproj.CoreCompileInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.AssemblyInfoInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.AssemblyInfo.cs
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.csproj.CopyComplete
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EntityExtensions\obj\Debug\netcoreapp2.1\EntityExtensions.pdb

@@ -1466,7 +1466,7 @@
       ]
     },
     "Microsoft.Win32.Registry/4.5.0": {
-      "sha512": "+FWlwd//+Tt56316p00hVePBCouXyEzT86Jb3+AuRotTND0IYn0OO3obs1gnQEs/txEnt+rF2JBGLItTG+Be6A==",
+      "sha512": "EDixzoujgextEs8kZ2pGgMpBCQTJzQXqpR67v1kCb2mbNsHxWCBwjfILGKsygZ0d3mpX6d3r0UKMgISUH5r5Lg==",
       "type": "package",
       "path": "microsoft.win32.registry/4.5.0",
       "files": [
@@ -1655,7 +1655,7 @@
       ]
     },
     "runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "A8v6PGmk+UGbfWo5Ixup0lPM4swuSwOiayJExZwKIOjTlFFQIsu3QnDXECosBEyrWSPryxBVrdqtJyhK3BaupQ==",
+      "sha512": "cdz7+Oc46AHL3gGk0cFGGfNPK5sGSw8+VPKemef7Hrt/avKtBEPFrarcL32z1hBgTkHqDMxQXudNU/EzAopRlw==",
       "type": "package",
       "path": "runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -1669,7 +1669,7 @@
       ]
     },
     "runtime.win-arm64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "LbrynESTp3bm5O/+jGL8v0Qg5SJlTV08lpIpFesXjF6uGNMWqFnUQbYBJwZTeua6E/Y7FIM1C54Ey1btLWupdg==",
+      "sha512": "bvYyWvJawOg0SVWkbTjJ7hUi9xuOXZsK5xJVnkKyNHbHDz8HAMAvVIi1bhHPGMRpqmm0+KQRFmDeQG3Fcug59w==",
       "type": "package",
       "path": "runtime.win-arm64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -1684,7 +1684,7 @@
       ]
     },
     "runtime.win-x64.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "38ugOfkYJqJoX9g6EYRlZB5U2ZJH51UP8ptxZgdpS07FgOEToV+lS11ouNK2PM12Pr6X/PpT5jK82G3DwH/SxQ==",
+      "sha512": "rq/Jgw5dmtU2oSkx4WRal/1y6AoYsdwS1t6qaDR4uvGOhlw+6mWn/3bcrJiwMBw7higcKBhDfHoh+i4t8BAG+A==",
       "type": "package",
       "path": "runtime.win-x64.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -1699,7 +1699,7 @@
       ]
     },
     "runtime.win-x86.runtime.native.System.Data.SqlClient.sni/4.4.0": {
-      "sha512": "YhEdSQUsTx+C8m8Bw7ar5/VesXvCFMItyZF7G1AUY+OM0VPZUOeAVpJ4Wl6fydBGUYZxojTDR3I6Bj/+BPkJNA==",
+      "sha512": "4ndHM5o0DSnLVvkdCcaW84o7NHBvLfEwJAXbxgdA2b6JI/11h/VC4A14jyZ1u+x5ycEn85Ce5zkiFtAZsSEGXg==",
       "type": "package",
       "path": "runtime.win-x86.runtime.native.system.data.sqlclient.sni/4.4.0",
       "files": [
@@ -2379,7 +2379,7 @@
       ]
     },
     "System.Linq.Queryable/4.0.1": {
-      "sha512": "Yn/WfYe9RoRfmSLvUt2JerP0BTGGykCZkQPgojaxgzF2N0oPo+/AhB8TXOpdCcNlrG3VRtsamtK2uzsp3cqRVw==",
+      "sha512": "DcmFgQDUjgSDlAaEYT/DzSBT15SYMH221ZYT3VyGlQyN6b2czfKKN1FN84S1ALjstn0aVxSbEOnz20oqtDcltA==",
       "type": "package",
       "path": "system.linq.queryable/4.0.1",
       "files": [
@@ -2437,7 +2437,7 @@
       ]
     },
     "System.Memory/4.5.1": {
-      "sha512": "sDJYJpGtTgx+23Ayu5euxG5mAXWdkDb4+b0rD0Cab0M1oQS9H0HXGPriKcqpXuiJDTV7fTp/d+fMDJmnr6sNvA==",
+      "sha512": "Usmphn3d8pUdeViShrLB3Wp0rhSvFAjyFbDIs3gM/D/tgiFkW9zQ55ck3Qay297NxDfXA7ehUqsVzVEHHGtAvg==",
       "type": "package",
       "path": "system.memory/4.5.1",
       "files": [
@@ -2611,7 +2611,7 @@
       ]
     },
     "System.Reflection.Emit/4.0.1": {
-      "sha512": "P2wqAj72fFjpP6wb9nSfDqNBMab+2ovzSDzUZK7MVIm54tBJEPr9jWfSjjoTpPwj1LeKcmX3vr0ttyjSSFM47g==",
+      "sha512": "Y9sR2+EGVUhoiaV0iNtCZs3GS32ETaAFRVMkuO1NIPs9krHn1u18lmBF4xAi9N9q0VWehBGza6FtYa0JaKywbQ==",
       "type": "package",
       "path": "system.reflection.emit/4.0.1",
       "files": [
@@ -2642,7 +2642,7 @@
       ]
     },
     "System.Reflection.Emit.ILGeneration/4.0.1": {
-      "sha512": "Ov6dU8Bu15Bc7zuqttgHF12J5lwSWyTf1S+FJouUXVMSqImLZzYaQ+vRr1rQ0OZ0HqsrwWl4dsKHELckQkVpgA==",
+      "sha512": "u+lY0q/J33WMjgHmiZHjyraekAuYI2iHQtjMS8ZZgHYUsC5qZ/h0Rbc+Wl6hKyk2Plo2OvNtNvk0m78g63+WMg==",
       "type": "package",
       "path": "system.reflection.emit.ilgeneration/4.0.1",
       "files": [
@@ -2674,7 +2674,7 @@
       ]
     },
     "System.Reflection.Emit.Lightweight/4.0.1": {
-      "sha512": "sSzHHXueZ5Uh0OLpUQprhr+ZYJrLPA2Cmr4gn0wj9+FftNKXx8RIMKvO9qnjk2ebPYUjZ+F2ulGdPOsvj+MEjA==",
+      "sha512": "pD+beJ9iJqge9tsI8pmXuDWAqLaI8mrpfsQSp1rtPFyHlmh22YM0FPyzUR8a32dkHpH9eZJRA9qhMsOcndUnGw==",
       "type": "package",
       "path": "system.reflection.emit.lightweight/4.0.1",
       "files": [
@@ -2818,7 +2818,7 @@
       ]
     },
     "System.Reflection.TypeExtensions/4.1.0": {
-      "sha512": "tsQ/ptQ3H5FYfON8lL4MxRk/8kFyE0A+tGPXmVP967cT/gzLHYxIejIYSxp4JmIeFHVP78g/F2FE1mUUTbDtrg==",
+      "sha512": "CXYynyzNqlmpJPuMg0mjR7zdSSUbTyAFfJBdQuN5nbHoAucQ0CFrMlDhkrejNZpioRcx5xigdlFBEfIrLkfY8A==",
       "type": "package",
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
@@ -3123,7 +3123,7 @@
       ]
     },
     "System.Security.AccessControl/4.5.0": {
-      "sha512": "vW8Eoq0TMyz5vAG/6ce483x/CP83fgm4SJe5P8Tb1tZaobcvPrbMEL7rhH1DRdrYbbb6F0vq3OlzmK0Pkwks5A==",
+      "sha512": "8ktYGOnnYUCkp7wXt02wV1dkUrNVSKBf6cXDkvcJF8kAw5jjWSbh/Db5BMO7nYDV2EXDDMUOLJzKUj4D3psWSw==",
       "type": "package",
       "path": "system.security.accesscontrol/4.5.0",
       "files": [
@@ -3165,7 +3165,7 @@
       ]
     },
     "System.Security.Principal.Windows/4.5.0": {
-      "sha512": "U77HfRXlZlOeIXd//Yoj6Jnk8AXlbeisf1oq1os+hxOGVnuG+lGSfGqTwTZBoORFF6j/0q7HXIl8cqwQ9aUGqQ==",
+      "sha512": "TV4l8t/ylBmHfTWLjgm3odRDTA72LTBhOvPCEuRjt9dqtUM4N5En8brAtg2Rl3QfkDkAy6Ww2jESONlwzmm0cw==",
       "type": "package",
       "path": "system.security.principal.windows/4.5.0",
       "files": [
@@ -3275,7 +3275,7 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.5.0": {
-      "sha512": "S0wEUiKcLvRlkFUXca8uio1UQ5bYQzYgOmOKtCqaBQC3GR9AJjh43otcM32IGsAyvadFTaAMw9Irm6dS4Evfng==",
+      "sha512": "YeQiJax6+0GU1SXlFXcPdQj36kkP0pOuFHfO76xNDpT499BtAqaB1saXyN7+shD/mCBHVqPx0vbY9genlUS7VA==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.5.0",
       "files": [
@@ -3474,11 +3474,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\Model\\Model.csproj",
+      "projectUniqueName": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\Model\\Model.csproj",
+      "projectPath": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\wj\\.nuget\\packages\\",
-      "outputPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\Model\\obj\\",
+      "outputPath": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

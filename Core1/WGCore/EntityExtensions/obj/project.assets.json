@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj",
+      "projectUniqueName": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj",
       "projectName": "EntityExtensions",
-      "projectPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj",
+      "projectPath": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\EntityExtensions.csproj",
       "packagesPath": "C:\\Users\\wj\\.nuget\\packages\\",
-      "outputPath": "D:\\MyCode\\MyGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\obj\\",
+      "outputPath": "D:\\MyCode\\MyCodeGit\\ADO.NetCore\\Core1\\WGCore\\EntityExtensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

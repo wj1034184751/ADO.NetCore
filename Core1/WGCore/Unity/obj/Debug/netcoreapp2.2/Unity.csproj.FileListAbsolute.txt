@@ -1,0 +1,9 @@
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\bin\Debug\netcoreapp2.2\Unity.deps.json
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\bin\Debug\netcoreapp2.2\Unity.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\bin\Debug\netcoreapp2.2\Unity.pdb
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.csprojAssemblyReference.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.csproj.CoreCompileInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.AssemblyInfoInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.AssemblyInfo.cs
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\Unity\obj\Debug\netcoreapp2.2\Unity.pdb

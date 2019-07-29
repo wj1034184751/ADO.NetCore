@@ -7,3 +7,12 @@ D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.dll
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.pdb
 D:\MyCode\MyGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.csprojAssemblyReference.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\bin\Debug\netcoreapp2.1\EFMYSQL.deps.json
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\bin\Debug\netcoreapp2.1\EFMYSQL.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\bin\Debug\netcoreapp2.1\EFMYSQL.pdb
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.csprojAssemblyReference.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.csproj.CoreCompileInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.AssemblyInfoInputs.cache
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.AssemblyInfo.cs
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.dll
+D:\MyCode\MyCodeGit\ADO.NetCore\Core1\WGCore\EFMYSQL\obj\Debug\netcoreapp2.1\EFMYSQL.pdb
